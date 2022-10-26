@@ -1,0 +1,27 @@
+{
+  "name": "akvelon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassade/Akvelon.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cassade/Akvelon/issues"
+  },
+  "homepage": "https://github.com/cassade/Akvelon#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "hardhat": "^2.12.0",
+    "mocha": "^10.1.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
